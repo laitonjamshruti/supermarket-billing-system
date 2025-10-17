@@ -1,73 +1,24 @@
-SUPERMARKET BILLING SYSTEM (C++)
+# 🛒 Supermarket Billing System (C++)
 
-This is a console-based supermarket billing system written in C++.
-It allows users to view available items, add items to a shopping cart, view their cart, and generate a final bill.
+A simple and functional **Supermarket Billing System** built using **C++**, simulating the core operations of a retail billing system. This console-based application supports product management and bill generation with file-based data storage.
 
-FEATURES
+---
 
-Display list of available items with prices
+## ✨ Features
 
-Add selected items with quantity to the cart
+- 🧾 Generate itemized customer bills
+- 🛍️ Add, edit, delete, and display products
+- 💾 Persistent product storage using file handling
+- 👥 Admin and customer interfaces
+- 🧠 Menu-driven interface with basic input validation
 
-View cart with item totals
+---
 
-Generate final bill
+## 🛠️ Tech Stack
 
-Exit option
+- **Language**: C++
+- **Compiler**: g++ / any standard C++ compiler
+- **Interface**: Command-line (Terminal)
 
-HOW TO RUN
+---
 
-Open terminal or command prompt.
-
-Compile the code:
-g++ supermarket.project.cpp -o supermarket
-
-Run the program:
-./supermarket
-
-SAMPLE MENU
-
-Show Items
-
-Add Item to Cart
-
-View Cart
-
-Checkout
-
-Exit
-
-EXAMPLE OUTPUT
-
-Available Items:
-
-Apple 50
-
-Banana 20
-
-Milk 30
-
-Enter item number to add: 3
-Enter quantity: 2
-2 x Milk added to cart.
-
------- Your Cart ------
-Item Qty Price Total
-Milk 2 30 60
-Cart Total: Rs.60
-
-REQUIREMENTS
-
-Any C++ compiler (GCC, MinGW, Code::Blocks, etc.)
-
-FILE STRUCTURE
-
-supermarket-billing/
-│
-├── supermarket.project.cpp (Main program file)
-├── README.txt (Documentation)
-
-**STUDENTS NAMES:**
-**SHRUTI LAITONJAM** - ADTU/0/2025-29/BCSM/069
-**DEBJANI SINGHA** - ADTU/0/2025-29/BCSM/072
-**SAMIN FIZA** - ADTU/0/2025-29/BCSM/055
