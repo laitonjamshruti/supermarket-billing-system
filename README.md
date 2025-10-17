@@ -21,4 +21,9 @@ A simple and functional **Supermarket Billing System** built using **C++**, simu
 - **Interface**: Command-line (Terminal)
 
 ---
+**STUDENT'S NAME**
+**SHRUTI LAITONJAM**-ADTU/0/2025-29/BCSM/069
+**DEBJANI SINGHA**-ADTU/0/2025-29/BCSM/072
+**SAMIN FIZA**-ADTU/0/2025-29/BCSM/055
+
 
